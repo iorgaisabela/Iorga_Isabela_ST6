@@ -15,5 +15,8 @@ Ca utlilzator vreau sa completez datele de concediu pentru angajatii companiei p
 Ca utilizator vreau sa completez dreptul de concediu al angajatilor companiei pe tip si perioada pentru a tine o evidenta corecta a datelor.
 ![image](https://github.com/user-attachments/assets/fe9a0dcd-b89a-4e79-9435-c91e9e5ef80d)
 
+Aici puteti regasii release-ul care a fost creat pentru acest proiect
+
+![image](https://github.com/user-attachments/assets/c225a978-da81-4e93-aed6-a2860350150b)
 
 
