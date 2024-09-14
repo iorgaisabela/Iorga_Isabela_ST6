@@ -93,6 +93,11 @@ Product risks:
    
 ![image](https://github.com/user-attachments/assets/40baa5a5-414c-4e9f-b642-974c2892d976)
 
+# 3 Analiza 
+
+Procesul de testare va fi executat pe baza cerințelor aplicației.
+
+
 
 
 
