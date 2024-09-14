@@ -127,6 +127,7 @@ Defectele au fost create pe baza testelor picate, aici gasiti raportul defectelo
 Deoarece criteriile de ieșire au fost îndeplinite și satisfăcute așa cum se menționează în secțiunea corespunzătoare, echipa de testare sugerează această caracteristică pentru „Go live”.
 
 Matricea trasabilitati a fost generata si o puteti gasi aici [matricea trasabilitatii](https://github.com/iorgaisabela/Iorga_Isabela_ST6/blob/main/Matricea%20trasabilitatii_Orangehrm_ST6.csv)
+
 Diagrama de execuție a testului a fost generată și poate fi găsită mai jos. [Diagrama testului de executie](https://itfclasses.atlassian.net/jira/dashboards/10510?maximized=10948)
 
 
