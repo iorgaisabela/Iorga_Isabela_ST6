@@ -80,8 +80,9 @@ Project risks:
 
 Product risks: 
 
--E. Testarea non-functionala nu este in planul de testare – performanta poate fi slaba
--F. Testarea pe partea securitatii nu se gaseste in planul de testare- aplicatia poate pierde date
+- E. Testarea non-functionala nu este in planul de testare – performanta poate fi slaba
+- 
+- F. Testarea pe partea securitatii nu se gaseste in planul de testare- aplicatia poate pierde date
 
 
 
