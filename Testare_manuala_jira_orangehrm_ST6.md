@@ -87,7 +87,7 @@ Product risks:
 
  Criteriile de intrare definite in planul de testare au fost atinse iar procesul testarii poate continua.
 
- # 3 Monitorizare si control
+ ## Monitorizare si control
 
  - In această fază sunt generate rapoarte periodice și trimise conducerii pentru a informa despre nivelul de calitate al aplicației
    
