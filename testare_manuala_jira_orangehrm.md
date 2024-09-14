@@ -43,13 +43,9 @@ Inginer QA : Iorga Anamaria Isabela
 # 2 Entry criteria 
 
 -	We should have test environment available and be able to be accessed by all testing members
--	
 -	We should have business requirements defined
--	
--	We should have the roles and responsibilities set and allocated
--	
--	We should have the Test Plan described
--	
+- We should have the roles and responsibilities set and allocated
+- We should have the Test Plan described
 -	Potential project risks are defined, analyzed and a mitigation plan is set
   
 
