@@ -8,8 +8,12 @@ Tools folosite:Jira,Zephyer Squad
 # 3 OrangeHrm - Leave module - Jira-Cerinte business
 
 Am ales modulul Leave al aplicatiei ( in cadrul cursului s-a studiat Personal detailes si Myinfo module)
+
 Ca utlilzator vreau sa completez datele de concediu pentru angajatii companiei pentru a tine evidenta corecta a datelor.
+![image](https://github.com/user-attachments/assets/1c1f4c8e-b567-46ee-9048-03855284f61e)
+
 Ca utilizator vreau sa completez dreptul de concediu al angajatilor companiei pe tip si perioada pentru a tine o evidenta corecta a datelor.
+![image](https://github.com/user-attachments/assets/fe9a0dcd-b89a-4e79-9435-c91e9e5ef80d)
 
 
 
