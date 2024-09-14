@@ -25,9 +25,9 @@ Procesul testarii s-a realizat pe baza standardelor descrise mai jos.
 
 # 2 1.1 Test planing
 
-Planul de testare este conceput pentru a descrie toate detaliile testării pentru toate modulele din aplicația JPetStore Demo.
+Planul de testare este conceput pentru a descrie toate detaliile testării pentru toate modulele din aplicația OrangeHrm.
 
-Planul identifică elementele de testat, caracteristicile de testat, tipurile de testare care trebuie efectuate, personalul responsabil de testare, resursele și programul necesar pentru finalizarea testării și riscurile asociate cu planul. Planul de testare care a fost creat pentru acest proiect poate fi găsit aici Update Plan_de_testare_Orangehrm.com_st6
+Planul identifică elementele de testat, caracteristicile de testat, tipurile de testare care trebuie efectuate, personalul responsabil de testare, resursele și programul necesar pentru finalizarea testării și riscurile asociate cu planul. Planul de testare care a fost creat pentru acest proiect poate fi găsit aici 
 
 # 2 1.1.1. Rolurile atribuite proiectului și persoanele alocate
 
