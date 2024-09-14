@@ -4,3 +4,6 @@ Scopul proiectului final pentru ITF Testare Manuala este de a acumula cunostinte
 Aplicatia testata:OrangeHrm.com
 
 Tools folosite:Jira,Zephyer Squad
+
+# 3 OrangeHrm - Leave module - Jira-Cerinte business
+
