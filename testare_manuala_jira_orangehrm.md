@@ -102,7 +102,11 @@ Aici gasiti următoarele condiții de testare:
 ![image](https://github.com/user-attachments/assets/99ca42e6-bb74-4d75-9666-7223f9e25aff)
 
 
+# 3 Test Design
 
+Cazurile de testare funcționale au fost create în Zephyr Squad pe baza analizei specificațiilor.
+
+Cazurile de testare pot fi accesate aici 
 
 
 
