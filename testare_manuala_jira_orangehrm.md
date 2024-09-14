@@ -63,6 +63,10 @@ Inginer QA : Iorga Anamaria Isabela
   
 Pe tot parcursul procesului de testare echipa de testare va efectua teste funcționale, testare pozitivă, testare negativă.
 
+# 3 Funcționalități și teste în afara scopului
 
+-Toate modulele OrangeHRM, cu excepția celor menționate mai sus, sunt în afara domeniului de aplicare.
+-Testarea nefuncțională este în afara domeniului de aplicare.
+-Testarea automatizării este în afara domeniului de aplicare.
   
 
