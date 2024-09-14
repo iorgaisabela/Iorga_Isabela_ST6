@@ -79,8 +79,9 @@ Project risks:
 -	C. Bugetul pentru testare este putin – testarea nu este facuta pe toate functionalitatile, poate duce la multe bug-uri dupa predare sau chiar esuarea proiectului.
 
 Product risks: 
-E. Testarea non-functionala nu este in planul de testare – performanta poate fi slaba
-F. Testarea pe partea securitatii nu se gaseste in planul de testare- aplicatia poate pierde date
+
+-E. Testarea non-functionala nu este in planul de testare – performanta poate fi slaba
+-F. Testarea pe partea securitatii nu se gaseste in planul de testare- aplicatia poate pierde date
 
 
 
