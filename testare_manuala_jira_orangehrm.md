@@ -70,5 +70,17 @@ Pe tot parcursul procesului de testare echipa de testare va efectua teste funcț
 -Testarea nefuncțională este în afara domeniului de aplicare.
 
 -Testarea automatizării este în afara domeniului de aplicare.
-  
+
+
+# 3  Riscuri:
+Project risks: 
+-	A. Echipa de testare are un singur tester disponibil -poate duce la intarzierea predarii
+-	B. Clientul cere des schimbari – intarziere , bug-uri, costuri suplimentare
+-	C. Bugetul pentru testare este putin – testarea nu este facuta pe toate functionalitatile, poate duce la multe bug-uri dupa predare sau chiar esuarea proiectului.
+
+Product risks: 
+E. Testarea non-functionala nu este in planul de testare – performanta poate fi slaba
+F. Testarea pe partea securitatii nu se gaseste in planul de testare- aplicatia poate pierde date
+
+
 
