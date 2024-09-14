@@ -125,10 +125,10 @@ Defectele au fost create pe baza testelor picate, aici gasiti raportul defectelo
 
 ## Finalizarea testului
 Deoarece criteriile de ieșire au fost îndeplinite și satisfăcute așa cum se menționează în secțiunea corespunzătoare, echipa de testare sugerează această caracteristică pentru „Go live”
-Matricea trasabilitati a fost generata si o puteti gasi aici 
-Diagrama de execuție a testului a fost generată și poate fi găsită mai jos.
+Matricea trasabilitati a fost generata si o puteti gasi aici [matricea trasabilitatii](https://github.com/iorgaisabela/Iorga_Isabela_ST6/blob/main/Matricea%20trasabilitatii_Orangehrm_ST6.csv)
+Diagrama de execuție a testului a fost generată și poate fi găsită mai jos. [Diagrama testului de executie](https://itfclasses.atlassian.net/jira/dashboards/10510?maximized=10948)
 
-(inserati aici raportul de executie generat din jira din sectiunea de dashboards)
+
 
 Raportul final arată că un număr de teste au eșuat dintr-un total de (inserați numărul de teste)
 
