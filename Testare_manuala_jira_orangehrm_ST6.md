@@ -42,19 +42,19 @@ Inginer QA : Iorga Anamaria Isabela
 
 ## Entry criteria 
 
--	We should have test environment available and be able to be accessed by all testing members
--	We should have business requirements defined
-- We should have the roles and responsibilities set and allocated
-- We should have the Test Plan described
--	Potential project risks are defined, analyzed and a mitigation plan is set
+-	Ar trebui să avem un mediu de testare disponibil și să putem fi accesați de toți membrii de testare
+- Ar trebui să avem cerințele de afaceri definite
+- Ar trebui să avem rolurile și responsabilitățile stabilite și alocate
+- Ar trebui să avem planul de testare descris
+- Sunt definite, analizate riscurile potențiale ale proiectului și se stabilește un plan de atenuare
 
 ## Exit criteria:
--	We should have all test cases executed
--	We should have all major bugs closed
--	All discovered defects were reported
--	All business requirements were covered by test cases
--	Regression testing has been performed
--	Potential products risks have been identified and a mitigation plan is set
+-	Ar trebui să executăm toate cazurile de testare
+- Ar trebui să închidem toate erorile majore
+- Au fost raportate toate defectele descoperite
+- Toate cerințele de afaceri au fost acoperite de cazuri de testare
+- S-au efectuat teste de regresie
+- Au fost identificate riscuri potențiale ale produselor și este stabilit un plan de atenuare
 
 ## Scopul testarii:
 - Pentru echipa actuală de testare, funcționalitățile care fac obiectul testării sunt:
