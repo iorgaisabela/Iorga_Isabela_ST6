@@ -83,5 +83,16 @@ Product risks:
 - E. Testarea non-functionala nu este in planul de testare – performanta poate fi slaba 
 - F. Testarea pe partea securitatii nu se gaseste in planul de testare- aplicatia poate pierde date
 
+# 2 Evaluarea criteriilor de intrare:
+
+ Criteriile de intrare definite in planul de testare au fost atinse iar procesul testarii poate continua.
+
+ # 3 Monitorizare si control
+
+ - In această fază sunt generate rapoarte periodice și trimise conducerii pentru a informa despre nivelul de calitate al aplicației
+   
+![image](https://github.com/user-attachments/assets/40baa5a5-414c-4e9f-b642-974c2892d976)
+
+
 
 
