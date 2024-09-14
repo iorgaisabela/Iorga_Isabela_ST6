@@ -19,4 +19,23 @@ Aici puteti regasii release-ul care a fost creat pentru acest proiect
 
 ![image](https://github.com/user-attachments/assets/c225a978-da81-4e93-aed6-a2860350150b)
 
+# 3 Testing process
 
+Procesul testarii s-a realizat pe baza standardelor descrise mai jos.
+
+# 2 1.1 Test planing
+
+Planul de testare este conceput pentru a descrie toate detaliile testării pentru toate modulele din aplicația JPetStore Demo.
+
+Planul identifică elementele de testat, caracteristicile de testat, tipurile de testare care trebuie efectuate, personalul responsabil de testare, resursele și programul necesar pentru finalizarea testării și riscurile asociate cu planul. Planul de testare care a fost creat pentru acest proiect poate fi găsit aici (inserați link către documentul cu planul de testare)
+
+# 2 1.1.1. Rolurile atribuite proiectului și persoanele alocate
+
+
+Manager de proiect: Iorga Ionut
+
+Proprietar de produs: Slotan Olivia
+
+Dezvoltator software: Matei Ovidiu
+
+Inginer QA : Iorga Anamaria Isabela
