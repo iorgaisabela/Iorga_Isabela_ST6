@@ -113,7 +113,7 @@ Cazurile de testare pot fi accesate aici *[teste](https://github.com/iorgaisabel
 - De asemenea, ne asigurăm că mediul de testare este actualizat cu cele mai recente modificări
 
 ## Executarea testelor
-Testele sunt executate in Cycle Summary creat ### Configure tests
+Testele sunt executate in Cycle Summary creat ###Configure tests
 
 
 
