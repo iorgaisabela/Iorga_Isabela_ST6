@@ -97,6 +97,11 @@ Product risks:
 
 Procesul de testare va fi executat pe baza cerințelor aplicației.
 
+Aici gasiti următoarele condiții de testare:
+
+![image](https://github.com/user-attachments/assets/99ca42e6-bb74-4d75-9666-7223f9e25aff)
+
+
 
 
 
