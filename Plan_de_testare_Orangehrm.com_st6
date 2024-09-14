@@ -1,1 +1,161 @@
+# 3 OrangeHrm -Leave module-	Test Plan -
+
+# 2 Revision History
+Date	Description	Author	Comments
+08/31/2024	V1.0	Iorga Anamaria Isabela-ST6	First version of test plan
+			
+
+# 3 1.	Introduction
+1.1	Project objective
+1.2	Functionalities in scope
+1.3	Functionalities and tests out of scope
+2.	Test process
+2.1	Test planning
+2.2	Test analysis
+2.3	Test design
+2.4	Test implementation
+2.5	Test execution
+2.6	Test closure
+2.7	Test monitoring and control
+3.	Test deliverables
+3.1	Test plan
+3.2	Test conditions
+3.3	Test cases
+3.4	Daily test summary reports
+3.5	Traceability matrix
+3.6	Test case results
+3.7	Bugs report
+3.8	Test completion report
+
+# 3 1.	Introduction
+# 3 2.	OrangeHRM is an application dedicated to employee management. The application has multiple roles for different users so that HR administrators and also employees can see or edit specific information.
+
+2.1	  Project Objective
+The objective of this project is to increase the quality of the application, to identify bugs and to prevent product risks. 
+Link for accessing the application under test can be found here: https://opensource-demo.orangehrmlive.com/
+
+Link for OrangeHrm documentation can be found here: https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf 
+
+
+2.2	  Functionalities in scope
+For the current testing team the functionalities that are in scope of testing are:
+-	Leave module which alow HR admin to configure (Leave period, Leave types, Work Week, Holidays)
+-	Leave Entitlements -alow users to add and view employee leave entitlement
+Throughout the testing process the testing team will perform functional testing, positive testing, negative testing.
+
+
+1.3 Functionalities and tests out of scope
+All OrangeHRM modules except the ones mentioned above are out of scope.
+Non functional testing is out of scope.
+Automation testing is out of scope.
+
+
+
+ # 3 3.	Test process
+3.1	  Test planning
+Roles and responsibilities
+Role1	Test lead: will monitor the test process and if the deadlines are met.
+Role2	Tester: In charge of testing the Leave period functionality
+Role3 	Tester: In charge of testing the Leave types functionality
+
+Role4 	Tester : In charge of testing the Work Week  functionality
+Role5	Tester : In charge of testing the Holidays functionality
+
+ # 2 Entry criteria:
+-	We should have test environment available and be able to be accessed by all testing members
+-	We should have business requirements defined
+-	We should have the roles and responsibilities set and allocated
+-	We should have the Test Plan described
+-	Potential project risks are defined, analyzed and a mitigation plan is set
+
+# 2 Exit criteria:
+-	We should have all test cases executed
+-	We should have all major bugs closed
+-	All discovered defects were reported
+-	All business requirements were covered by test cases
+-	Regression testing has been performed
+-	Potential products risks have been identified and a mitigation plan is set
+
+
+
+#3 Risks:
+Project risks: 
+-	A. Echipa de testare are un singur tester disponibil -poate duce la intarzierea predarii
+-	B. Clientul cere des schimbari – intarziere , bug-uri, costuri suplimentare
+-	C. Bugetul pentru testare este putin – testarea nu este facuta pe toate functionalitatile, poate duce la multe bug-uri dupa predare sau chiar esuarea proiectului.
+
+Product risks: 
+E. Testarea non-functionala nu este in planul de testare – performanta poate fi slaba
+F. Testarea pe partea securitatii nu se gaseste in planul de testare- aplicatia poate pierde date
+
+
+2.2 Test analysis 
+
+-	In this phase we will analyze the business requirements and based on them test conditions will be created
+
+
+2.3 Test design-
+-	- In this phase based on the test conditions previously defined we design test cases in Jira
+-	The test data needed will be identified in this phase 
+
+
+
+2.4 Test implementation
+-	In this phase we prioritize test cases written in the previous phase
+-	We also make sure that test environment is updated with the latest changes
+
+
+2.5 Test execution
+-	In this phase we will execute test cases in Jira
+-	Test cases will be executed on FireFox
+-	If there are differences between expected result and actual result in the test application, defects are reported
+-	After defects are fixed, retesting is done
+-	If missed scenarios are discovered, test cases will be updated
+-	Execution report is generated and sent to management team in order to take actions if risks are identified
+
+
+2.6 Test closure
+-	Test closure report is generated
+-	Traceability matrix is generated and sent to management team
+-	Identify potential product risks
+
+2.7 Test monitoring and control
+-	In this phase periodic reports are generated and sent to management to inform about quality level of the application
+-	We will evaluate the test status report in case measures need to be made
+
+4.	Test deliverables
+ During the test process the following deliverables will be created and sent to management team to inform them about the quality level of the application:
+    
+   
+
+4.1	  Test plan
+
+4.2	  Test conditions
+
+4.3	  Test cases
+
+4.4	  Daily test summary report 
+
+4.5	  Traceability matrix
+
+4.6	  Test case results
+
+4.7	  Bugs report
+
+4.8	  Test completion report
+
+4.9	  Schedule
+
+The testing process will go about 2 weeks before delivering into production. 
+In case major defects are found in production, a version is released in one week.
+
+
+
+
+
+
+
+
+
+
 
