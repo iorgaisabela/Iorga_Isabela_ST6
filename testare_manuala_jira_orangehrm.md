@@ -123,7 +123,16 @@ Defectele au fost create pe baza testelor picate, aici gasiti raportul defectelo
 - User with no admin rights complete Leave Period - 1 defect - prioritate foarte mare-severitate 2
 
 
+## Finalizarea testului
+Deoarece criteriile de ieșire au fost îndeplinite și satisfăcute așa cum se menționează în secțiunea corespunzătoare, echipa de testare sugerează această caracteristică pentru „Go live”
+Matricea trasabilitati a fost generata si o puteti gasi aici 
+Diagrama de execuție a testului a fost generată și poate fi găsită mai jos.
 
+(inserati aici raportul de executie generat din jira din sectiunea de dashboards)
+
+Raportul final arată că un număr de teste au eșuat dintr-un total de (inserați numărul de teste)
+
+A number of (inserati numarul de bug-uri) total bugs were found, from which the priority is: (inserati numarul de bug-uri) are high and (inserati numarul de bug-uri) are medium.
 
 
 
