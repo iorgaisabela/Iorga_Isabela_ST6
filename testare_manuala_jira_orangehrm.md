@@ -108,5 +108,13 @@ Cazurile de testare funcționale au fost create în Zephyr Squad pe baza analize
 
 Cazurile de testare pot fi accesate aici *[teste](https://github.com/iorgaisabela/Iorga_Isabela_ST6/blob/main/Teste_jira.csv)
 
+## Implementarea testului
+- În această fază acordăm prioritate cazurilor de testare scrise în faza anterioară
+- De asemenea, ne asigurăm că mediul de testare este actualizat cu cele mai recente modificări
+
+## Executarea testelor
+Testele sunt executate in Cycle Summary creat ### Configure tests
+
+
 
 
