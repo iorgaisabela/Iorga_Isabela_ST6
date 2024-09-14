@@ -47,5 +47,22 @@ Inginer QA : Iorga Anamaria Isabela
 - We should have the roles and responsibilities set and allocated
 - We should have the Test Plan described
 -	Potential project risks are defined, analyzed and a mitigation plan is set
+
+ # 2 Exit criteria:
+-	We should have all test cases executed
+-	We should have all major bugs closed
+-	All discovered defects were reported
+-	All business requirements were covered by test cases
+-	Regression testing has been performed
+-	Potential products risks have been identified and a mitigation plan is set
+
+# 2 Scopul testarii:
+-Pentru echipa actuală de testare, funcționalitățile care fac obiectul testării sunt:
+- Leave modul care permite administratorului de resurse umane sa configureze (perioada de concediu, tipuri de concediu, Săptămâna de lucru, Sărbători)
+-	Leave Entitlements  - permite utilizatorilor să adauge și să vadă leave entitlement al angajaților
+  
+Pe tot parcursul procesului de testare echipa de testare va efectua teste funcționale, testare pozitivă, testare negativă.
+
+
   
 
