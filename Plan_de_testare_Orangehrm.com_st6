@@ -1,11 +1,11 @@
-### OrangeHrm -Leave module-Test Plan -
+ OrangeHrm -Leave module-Test Plan -
 
- ##Revision History
+Revision History
 Date	Description	Author	Comments
 08/31/2024	V1.0	Iorga Anamaria Isabela-ST6	First version of test plan
 			
 
-## 1.	Introduction
+ 1.	Introduction
 1.1	Project objective
 1.2	Functionalities in scope
 1.3	Functionalities and tests out of scope
@@ -27,8 +27,8 @@ Date	Description	Author	Comments
 3.7	Bugs report
 3.8	Test completion report
 
-## 1.	Introduction
-## 2.	OrangeHRM is an application dedicated to employee management. The application has multiple roles for different users so that HR administrators and also employees can see or edit specific information.
+ 1.	Introduction
+ 2.	OrangeHRM is an application dedicated to employee management. The application has multiple roles for different users so that HR administrators and also employees can see or edit specific information.
 
 2.1	  Project Objective
 The objective of this project is to increase the quality of the application, to identify bugs and to prevent product risks. 
@@ -39,8 +39,8 @@ Link for OrangeHrm documentation can be found here: https://www.orangehrm.com/as
 
 2.2	  Functionalities in scope
 For the current testing team the functionalities that are in scope of testing are:
--	Leave module which alow HR admin to configure (Leave period, Leave types, Work Week, Holidays)
--	Leave Entitlements -alow users to add and view employee leave entitlement
+-Leave module which alow HR admin to configure (Leave period, Leave types, Work Week, Holidays)
+-Leave Entitlements -alow users to add and view employee leave entitlement
 Throughout the testing process the testing team will perform functional testing, positive testing, negative testing.
 
 
