@@ -42,7 +42,6 @@ Inginer QA : Iorga Anamaria Isabela
 
 ## Entry criteria 
 
--	Ar trebui să avem un mediu de testare disponibil și să putem fi accesați de toți membrii de testare
 - Ar trebui să avem cerințele de afaceri definite
 - Ar trebui să avem rolurile și responsabilitățile stabilite și alocate
 - Ar trebui să avem planul de testare descris
@@ -74,14 +73,14 @@ Pe tot parcursul procesului de testare echipa de testare va efectua teste funcț
 
 ###  Riscuri:
 Project risks: 
--	A. Echipa de testare are un singur tester disponibil -poate duce la intarzierea predarii
--	B. Clientul cere des schimbari – intarziere , bug-uri, costuri suplimentare
--	C. Bugetul pentru testare este putin – testarea nu este facuta pe toate functionalitatile, poate duce la multe bug-uri dupa predare sau chiar esuarea proiectului.
+-	 Echipa de testare are un singur tester disponibil -poate duce la intarzierea predarii
+-	 Clientul cere des schimbari – intarziere , bug-uri, costuri suplimentare
+-	 Bugetul pentru testare este putin – testarea nu este facuta pe toate functionalitatile, poate duce la multe bug-uri dupa predare sau chiar esuarea proiectului.
 
 Product risks: 
 
-- E. Testarea non-functionala nu este in planul de testare – performanta poate fi slaba 
-- F. Testarea pe partea securitatii nu se gaseste in planul de testare- aplicatia poate pierde date
+-  Testarea non-functionala nu este in planul de testare – performanta poate fi slaba 
+-  Testarea pe partea securitatii nu se gaseste in planul de testare- aplicatia poate pierde date
 
 ## Evaluarea criteriilor de intrare:
 
@@ -134,7 +133,7 @@ Diagrama de execuție a testului a fost generată și poate fi găsită mai jos.
 
 Raportul final arată că un număr de 3 teste au eșuat dintr-un total de 14.
 
-Un nr de 5 defecte au fost gasite in total, dintre care 3 au fost reparate, au ramas 2 defecte cu prioritate medie.
+Un nr de 5 defecte au fost gasite in total, dintre care 2 au fost reparate, au ramas 3 defecte cu prioritate mare.
 
 Au fost create 14 teste si executate, au fost acoperite 50% din cerintele de business, defectele nu impacteaza lansarea produsului, pot fi fixate ulterior.
 
