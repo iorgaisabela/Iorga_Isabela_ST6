@@ -107,7 +107,7 @@ Aici gasiti următoarele condiții de testare:
 
 Cazurile de testare funcționale au fost create în Zephyr Squad pe baza analizei specificațiilor.
 
-Cazurile de testare pot fi accesate aici *[teste](https://github.com/iorgaisabela/Iorga_Isabela_ST6/blob/main/Teste_jira.csv)
+Cazurile de testare pot fi accesate aici *[teste](https://github.com/iorgaisabela/Iorga_Isabela_ST6/blob/main/Test%20case-uri.csv)
 
 ## Implementarea testului
 - În această fază acordăm prioritate cazurilor de testare scrise în faza anterioară
