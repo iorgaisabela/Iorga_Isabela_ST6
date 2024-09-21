@@ -90,7 +90,8 @@ Product risks:
 
  - In această fază sunt generate rapoarte periodice și trimise conducerii pentru a informa despre nivelul de calitate al aplicației
    
-![image](https://github.com/user-attachments/assets/40baa5a5-414c-4e9f-b642-974c2892d976)
+![image](https://github.com/user-attachments/assets/517134e8-5f87-4eaa-a214-de5254555fe4)
+
 
 ### Analiza 
 
