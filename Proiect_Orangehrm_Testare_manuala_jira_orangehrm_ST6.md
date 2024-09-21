@@ -116,7 +116,7 @@ Cazurile de testare pot fi accesate aici *[teste](https://github.com/iorgaisabel
 ## Executarea testelor
 Testele sunt executate in Cycle Summary creat-Configure tests-
 
-Defectele au fost create pe baza testelor picate, aici gasiti raportul defectelor gasite [raport defecte](https://github.com/iorgaisabela/Iorga_Isabela_ST6/blob/main/Raport_defecte_oranghrm_st6.csv)
+Defectele au fost create pe baza testelor picate, aici gasiti raportul defectelor gasite [raport defecte](https://github.com/iorgaisabela/Iorga_Isabela_ST6/blob/main/Raport%20defecte.csv)
 - Search button dosen't work - 1 defect -prioritate mare-severitate 2
 - OrangeHrm application not responding - prioritate foarte mare-severitate 1
 - Dropdown button not responding - 1 defect -prioritate medie -severitate 2
