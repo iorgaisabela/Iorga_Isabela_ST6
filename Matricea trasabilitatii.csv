@@ -1,6 +1,3 @@
-Conform matricei trasabilitatii , au fost create 14 teste raportandu-se in total 5 defecete, dintre care 3 au fost remediate si testele executate trecand la statusul PASS, 2 defecte au ramas inca nerezolvate, avand o prioritate medie ce nu impiedica predarea proiectului, putand fi remediate ulterior.
-
-
 
 Requirements,Tests,Executions,Defects
 IAIS-7 - Create Leave Entitlements ,None,None,None
