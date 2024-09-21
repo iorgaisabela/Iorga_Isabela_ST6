@@ -15,3 +15,6 @@ IAIS-2 - Create Configure whitin Leave Module,IAIS-24 - Verify checkbox entries 
 IAIS-2 - Create Configure whitin Leave Module,"IAIS-13 -  Configure functionality should appear after accessing the ""Leave"" module",Configure tests  - PASS,None
 IAIS-2 - Create Configure whitin Leave Module,IAIS-20 - StartMonth and StartDate can only by define from the dropdown menu,Configure tests  - PASS,None
 IAIS-1 - Create Leave Module for OrangeHRM.com,None,None,None
+
+
+Conform matricei trasabilitatii , au fost create 14 teste raportandu-se in total 5 defecete, dintre care 3 au fost remediate si testele executate trecand la statusul PASS, 2 defecte au ramas inca nerezolvate, avand o prioritate medie ce nu impiedica predarea proiectului, putand fi remediate ulterior.
