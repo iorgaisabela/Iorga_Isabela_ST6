@@ -99,7 +99,8 @@ Procesul de testare va fi executat pe baza cerințelor aplicației.
 
 Aici gasiti următoarele condiții de testare:
 
-![image](https://github.com/user-attachments/assets/99ca42e6-bb74-4d75-9666-7223f9e25aff)
+![image](https://github.com/user-attachments/assets/87cb64c2-e1b3-489c-9f9c-2a9bf719bb14)
+
 
 
 ### Test Design
