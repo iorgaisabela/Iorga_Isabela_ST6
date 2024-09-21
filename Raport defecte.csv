@@ -1,0 +1,80 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Affects versions,Fix versions,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Blocks),Inward issue link (Relates),Outward issue link (Tests),Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Affected hardware),Custom field (Affected services),Custom field (Approvals),Custom field (Asset type),Custom field (Asset type),Custom field (Backout plan),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Department),Custom field (Department),Custom field (Development),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (Goals),Custom field (Impact),Custom field (Implementation plan),Custom field (Investigation reason),Custom field (Issue color),Custom field (Locked forms),Custom field (Major incident),Custom field (Open forms),Custom field (Pending reason),Custom field (Planned end),Custom field (Planned start),Custom field (Priority),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Request Type),Custom field (Request language),Custom field (Request participants),Custom field (Responders),Custom field (Root cause),Satisfaction rating,Custom field (Satisfaction date),Custom field (Sentiment),Custom field (Severity),Custom field (Source),Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Test plan),Custom field (Time to close after resolution),Custom field (Time to first response),Custom field (Time to resolution),Custom field (Time to review normal change),Custom field (Total forms),Custom field (Urgency),Custom field (Vulnerability),Custom field (Work category),Custom field (Workaround),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Status Category,Status Category Changed
+Leave module blocked,IAIS-35,20242,Bug,Done,IAIS,Iorga Anamaria-Isabela_ST6,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,30-08-24 20:09,21-09-24 16:47,21-09-24 19:14,21-09-24 16:47,v1.0,,,0,"*Steps to reproduce*
+1.Access Orange Hrm application
+2.Log in with valid credentials
+3. Access Leave module
+*Expected result**
+Leave module should be successfully accessed
+*Actual result*
+Leave module not responding, is not sending the user to the new tab form",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,IAIS-30,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@54c532a4,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i01h88:or,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3_*:*_1_*:*_1888215728_*|*_10002_*:*_1_*:*_419685_*|*_10001_*:*_1_*:*_0,Done,21-09-24 16:47
+Search button dosen't work,IAIS-34,20241,Bug,In Progress,IAIS,Iorga Anamaria-Isabela_ST6,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,30-08-24 19:58,30-08-24 20:20,21-09-24 19:05,,v1.0,v1.0,,0,"*Steps to reproduce*
+1.Access OrangeHrm application
+2.Log in with valid credentials ( username:Admin, pasasword:admin123)
+3.Access Leave module 
+4. Access Configure
+5.Access Holidays
+6.Click the calendar button in fileds ""From"" and ""To"" to select period of time
+7.Click button ""Search""
+*Expected result*
+Search button should display a list with various holidays from the selected period
+*Actual result*
+Search button dosen't respond when the user click the button",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,IAIS-29,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@503c6038,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i01h88:y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In Progress,30-08-24 20:17
+OrangeHrm application not responding,IAIS-33,20239,Bug,Done,IAIS,Iorga Anamaria-Isabela_ST6,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,High,Done,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,30-08-24 19:28,30-08-24 20:37,21-09-24 19:06,30-08-24 20:37,v1.0,v1.0,,0,"When accessing the OrangeHrm application in browse FireFox application is not responding.
+
+*Steps to reproduce:*
+
+1.Open browser
+
+2.Access the aplication OrangeHrm 
+
+*Expected result:*
+
+# browser should open
+# orangeHrm application should open
+
+*Actual result:*
+
+# Browser is open 
+# Orangehrm application do not respond",FireFox,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,IAIS-13,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@9f3718e,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i01h88:9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3_*:*_1_*:*_3987827_*|*_10002_*:*_1_*:*_129173_*|*_10001_*:*_1_*:*_0,Done,30-08-24 20:37
+Dropdown button not responding,IAIS-28,20185,Bug,In Progress,IAIS,Iorga Anamaria-Isabela_ST6,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,High,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,29-08-24 20:13,30-08-24 19:30,21-09-24 19:20,,v1.0,v1.0,,0,"Dropdown button is not responding so the user can not complete fields for work day options
+*Steps to reproduce*
+1.Access OrangeHrm applocation
+2.Log in with valid credentials (username:Admin, password:admin123)
+3.Access Leave>>Configure>>Work week
+4.Click the dropdown button on each field
+*Expected result*
+User shoud be able to complete work week for each day of the week by clicking the dropdown button on each field
+*Actual result*
+Dropdown button is not reponding to complete the options of work day for each field
+",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,IAIS-27,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@74de3206,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i01h88:v,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In Progress,30-08-24 19:30
+Button Save not responding,IAIS-23,20152,Bug,Done,IAIS,Iorga Anamaria-Isabela_ST6,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,High,Done,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,28-08-24 21:45,21-09-24 15:58,21-09-24 19:04,21-09-24 15:58,,v1.0,,0,"Button *Save* from adding a new leave types is not working.
+*Steps to reproduce:*
+1.Access OrangeHrm application
+2.Log in with valid credentials(username:Admin, password: admin123)
+3.Access Leave Module
+4.Access Configure
+5.Access Leave types
+6. Click button add
+7.Add a new leave type
+8.Click button Save
+*Expected result*:
+The new leave type added should be saved successfully 
+*Actual Result*:
+Button add do not respond by clicking him",FireFox,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,IAIS-22,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@61abe901,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i01h88:p,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3_*:*_2_*:*_1891018907_*|*_10002_*:*_1_*:*_33821_*|*_10001_*:*_2_*:*_161693340_*|*_10003_*:*_1_*:*_8301,Done,21-09-24 15:58
+User with no admin rights complete Leave Period,IAIS-18,20131,Bug,Done,IAIS,Iorga Anamaria-Isabela_ST6,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,High,Done,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,27-08-24 19:22,30-08-24 20:37,21-09-24 19:20,30-08-24 20:37,v1.0,v1.0,,0,"Leave Period can be completed by only users with admin rights, when i tested thid functionality i was able to complete these fields as a simple user with no radmin rights.
+
+*Steps to reproduce:*
+1.Access OrangeHrm application
+2.Log in with valid credentials ( username:Admin , password: admin123)
+3.Access Leave module
+4.Access Configure
+5.Access Leave Period
+6.Complete StartMonth and StartDate as a user with no admin rights
+
+* Expected result:*
+Should not be alowed a user with no admin rights to complete StardMonth and StarDate
+
+*Actual result:*
+As a user with no admin rights i was able to complete StarMonth and StartDate
+
+",FireFox,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,IAIS-17,,27/Aug/24 7:21 PM;712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67;Capture.PNG;https://itfclasses.atlassian.net/rest/api/3/attachment/content/11746,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@47d0a105,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i01h88:d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3_*:*_2_*:*_11780419_*|*_10002_*:*_1_*:*_844987_*|*_10001_*:*_2_*:*_251052892_*|*_10003_*:*_1_*:*_21032,Done,30-08-24 20:37
