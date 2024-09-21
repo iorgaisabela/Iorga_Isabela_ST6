@@ -1,6 +1,0 @@
-Requirements,Tests,Executions,Defects
-IAIS-34 - Search button dosen't work - 1 defect,IAIS-29 - Verify functionality calendar options in fields from Holidays,Configure tests  - FAIL,IAIS-34 - In Progress - Search button dosen't work - step
-IAIS-33 - OrangeHrm application not responding,"IAIS-13 -  Configure functionality should appear after accessing the ""Leave"" module",Configure tests  - PASS,None
-IAIS-28 - Dropdown button not responding - 1 defect,IAIS-27 - Verify options of work day field can be selected from dropdown of each field,Configure tests  - FAIL,IAIS-28 - In Progress - Dropdown button not responding - step
-IAIS-23 - Button Save not responding - 1 defect,IAIS-22 - Verify Leave Types added appeared in the list,Configure tests  - PASS,IAIS-23 - In Progress - Button Save not responding - step
-IAIS-18 - User with no admin rights complete Leave Period - 1 defect,IAIS-17 - Verify if users with no admin rights can define Leave Period,Configure tests  - PASS,IAIS-18 - Done - User with no admin rights complete Leave Period - step
