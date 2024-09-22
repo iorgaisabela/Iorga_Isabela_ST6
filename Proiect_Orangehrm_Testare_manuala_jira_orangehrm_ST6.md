@@ -133,9 +133,9 @@ Diagrama de execuție a testului a fost generată și poate fi găsită mai jos.
 
 
 
-Raportul final arată că un număr de 3 teste au eșuat dintr-un total de 14.
+Raportul final arată că un număr de 2 teste au eșuat dintr-un total de 14.
 
-Un nr de 5 defecte au fost gasite in total, dintre care 2 au fost reparate, au ramas 3 defecte cu prioritate mare.
+Un nr de 5 defecte au fost gasite in total, dintre care 3 au fost reparate, au ramas 2 defecte cu prioritate medie.
 
 Au fost create 14 teste si executate, au fost acoperite 50% din cerintele de business, defectele nu impacteaza lansarea produsului, pot fi fixate ulterior.
 
